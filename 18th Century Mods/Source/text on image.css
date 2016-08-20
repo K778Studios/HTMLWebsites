@@ -1,0 +1,71 @@
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+
+h2 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+}
+
+
+
+img#etw
+{
+position: absolute;
+ top: 0;
+   left: 30;
+width:240px;
+height:270px
+}
+
+h4
+{
+position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+}
+
+
+img#n
+{
+position: absolute;
+ top: 0;
+   left: 30;
+width:250px;
+height:250px
+}
+
+img#u
+{
+position: absolute;
+ top: 0;
+   left: 10;
+width:390px;
+height:250px
+}
+
+img#p
+{
+position: absolute;
+ top: 10;
+   left: 10;
+width:260px;
+height:170px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

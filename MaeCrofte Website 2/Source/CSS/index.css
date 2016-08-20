@@ -1,0 +1,331 @@
+/*
+All this is for the mainbody of the website
+*/
+p#header
+{
+color: white;
+}
+
+p#default
+{
+color: white;
+}
+
+img#pchiro
+{
+margin-left: 20px;
+margin-top: -40px;
+float: left;
+width: 350px;
+height: 200px;
+}
+
+img#globe
+{
+float: right;
+width: 200px;
+height: 200px;
+}
+
+img#maecrofte
+{
+margin-top: 10px;
+float: left;
+width: 130px;
+height: 90px;
+}
+
+img#facebook
+{
+margin-right: 10px;
+margin-top: 109px;
+float: right;
+height: 30px;
+width: 30px;
+}
+
+img#twitter
+{
+margin-right: 10px;
+margin-top: 109px;
+float: right;
+height: 30px;
+width: 30px;
+}
+
+body
+{
+padding: 0px;
+margin: auto auto auto auto;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+margin-top: 0px;
+margin-right: auto;
+margin-bottom: auto;
+margin-left: auto;
+display: block;
+}
+
+div#whole
+{
+overflow: hidden;
+margin-top: 0px;
+width: 980px;
+margin-left: auto;
+margin-right: auto;
+}
+
+div#header
+{
+margin-left: auto;
+margin-right: auto;
+height: 139px;
+width: 980px;
+}
+
+div#left_half_header
+{
+float: left;
+}
+
+div#left_half_header_name
+{
+float: left;
+color: white;
+}
+
+img#logo_name
+{
+margin-top: 28px;
+margin-left: 10px;
+float: left;
+width: 400px;
+height: 67px;
+}
+
+div#right_half_header
+{
+float: right;
+margin-top: -5px;
+}
+
+div#underheader
+{
+width: 980px;
+height: 1210px;
+}
+
+div#menu_banner
+{
+display: block;
+float: left;
+width: 694px;
+height: 50px;
+}
+
+ul#menu_banner
+{
+list-style: none;
+padding: 0px 0 0 10px;
+margin: 0px;
+float: left;
+}
+
+li
+{
+margin-left: 28px;
+float: left;
+}
+
+img#home
+{
+width: 100px;
+height: 50px;
+}
+
+div#right_taskbar
+{
+float: right;
+height: 100%;
+width: 286px;
+}
+
+p#right_taskbar
+{
+margin-top: 40px;
+margin-left: 30px;
+font-size: 30px;
+font-family: arial;
+color: #D7B13F;
+}
+
+ul#right_taskbar
+{
+margin-top: -10px;
+color: white;
+text-align: left;
+font-size: 17px;
+display: block;
+list-style-type: disc;
+padding: 15px 0 15px 20px;
+}
+
+a#quick_links
+{
+color: white;
+}
+
+ 
+
+div#main
+{
+float: left;
+width:694px;
+height: 500px;
+}
+
+table#main
+{
+margin-left: 90px;
+margin-top: 10px;
+width: 650px;
+height: 433px;
+border: 0;
+cellspacing: 0;
+}
+
+tr#main
+{
+margin-left: 20px;
+margin-top: 10px;
+color: white;
+width: 650px;
+height: 433px;
+}
+
+td
+{
+margin-left: 20px;
+margin-top: 10px;
+width: 650px;
+height: 433px;
+}
+
+p#table_main
+{
+margin-top: -100px;
+margin-left: 20px;
+float: left;
+}
+
+p#table_main_index
+{
+margin-top: -70px;
+margin-left: 20px;
+float: left;
+font-size: 28px;
+}
+
+p#table_main_about
+{
+margin-top: -190px;
+margin-left: 20px;
+float: left;
+font-size: 20px;
+}
+
+p#table_main_contact
+{
+margin-top: -190px;
+margin-left: 20px;
+float: left;
+}
+
+p#table_main_pricing
+{
+margin-top: -190px;
+margin-left: 20px;
+float: left;
+}
+
+div#footer
+{
+width: 100%;
+height: 229px;
+padding: 0;
+}
+
+p#footer
+{
+color: #D7B13F;
+}
+
+p#footer_info
+{
+color: white;
+}
+
+div#first_footer
+{
+margin-left: 275px;
+width: 250px;
+float: left;
+}
+
+div#second_footer
+{
+margin-left: 25px;
+width: 250px;
+float: left;
+}
+
+div#third_footer
+{
+margin-left: 25px;
+width: 250px;
+float: left;
+}
+
+p#footer_right
+{
+margin-top: -10px;
+color: white;
+float: left;
+}
+
+
+img#facebook_footer
+{
+float: right;
+height: 30px;
+width: 30px;
+}
+
+img#twitter_footer
+{
+float: right;
+height: 30px;
+width: 30px;
+}
+
+
+
+
+
+/*
+This is for the examples page
+*/
+
+p#examples
+{
+color: white;
+margin-left: 50px;
+float: left;
+position: absolute;
+left: 170px;
+top: 100px;
+}
+
+

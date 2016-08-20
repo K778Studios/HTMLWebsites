@@ -1,0 +1,27 @@
+<factions>
+ <faction>France</faction>
+  <difficulty>Easy</difficulty>
+ <faction>Sweden</faction>
+  <difficulty>Easy</difficulty>
+ <faction>The Ottoman Empire</faction>
+  <difficulty>Moderate</difficulty>
+ <faction>Great Britain</faction>
+  <difficulty>Hard</difficulty>
+ <faction>United Provinces</faction>
+  <difficulty>Moderate</difficulty>
+ <faction>Russia</faction>
+  <difficulty>Hard</difficulty>
+ <faction>Spain</faction>
+  <difficulty>Hard</difficulty>
+ <faction>Prussia</faction>
+  <difficulty>Hard</difficulty>
+ <faction>Poland-Lithuania</faction>
+  <difficulty>Moderate</difficulty>
+ <faction>Austria</faction>
+  <difficulty>Easy</difficulty>
+ <faction>Marthas</faction>
+  <difficulty>Hard</difficulty>
+ <faction>United States Of America</faction>
+  <difficulty>Moderate</difficulty>
+</factions>
+  
